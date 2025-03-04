@@ -28,6 +28,14 @@ Científica de Datos con formación en informática, criminología, auxiliar de 
 - Ciberseguridad industrial en infraestructuras críticas
 - Diagnóstico y diseño de programa de gestión 
 
+## Grado en Criminología
+
+**2014-2018** Universidad de los Andes, Venezuela
+
+## Técnico superior en Informática
+
+**2008-2012** Instituto Universitario Tecnología Industrial Rodolfo Loero Arismendi IUTIRLA, Venezuela
+
  # Experiencia profesional 
 
 ## Auxiliar de enfermeria 
