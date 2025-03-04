@@ -2,7 +2,7 @@
 
 Científica de Datos con formación en informática, criminología, auxiliar de enfermería y  experiencia en el análisis de la dinámica social a través del trabajo en cárceles, centros de rehabilitación y psiquiátricos, lo cual  me ha permitido comprender el comportamiento social de manera integral. Además, gestioné un emprendimiento en el sector de joyería artesanal, donde desarrollé habilidades en ventas, operaciones y marketing. Por otro lado tuve la oportunidad de crear mi propia página web, lo que me permitió adquirir conocimientos en desarrollo web y comercio electrónico. Estas experiencias me han permitido gestionar y analizar datos desde un enfoque holístico, utilizando herramientas tecnológicas enfocadas en la protección de datos y la ciberseguridad. Estoy disponible para aplicar mis habilidades técnicas y analíticas en un entorno corporativo, contribuyendo con soluciones innovadoras y prácticas que impulsen el crecimiento y la seguridad de la organización.
 
- # Educación
+# Educación
 
 ## Máster en  Científico de datos|Analista de datos
 
@@ -36,7 +36,7 @@ Científica de Datos con formación en informática, criminología, auxiliar de 
 
 **2008-2012** Instituto Universitario Tecnología Industrial Rodolfo Loero Arismendi IUTIRLA, Venezuela
 
- # Experiencia profesional 
+# Experiencia profesional 
 
 ## Auxiliar de enfermeria 
 
