@@ -98,4 +98,27 @@ Más información en:
 
 - Castellano: Nativo 
 - Inglés: Intermedio
-- Catalán: Conversacional 
+- Catalán: Conversacional
+
+# Cursos
+
+**Dic-2016** Construcción,registro y manejo de base de datos con Cspro
+
+Laboratorio de Ciencias Sociales (LACSO), Venezuela
+
+**Sep-2010** Diseño de paginas Web (HTML y JavaScript)
+
+IMPROVE,Venezuela 
+
+**Sep-2010**Mantenimiento y ensamblajes de PCs
+
+IMPROVE, Venezuela
+
+**Ago-2010** Facilitador Microsoft Unlimited Potencial
+
+Programa de Microsoft Unlimited para capacitar a joven cuadrplejico para el uso del programa Camera Mouse
+
+**Mar-2010** Lenguaje PHP básico-intermedio
+
+Improve, Venezuela
+
