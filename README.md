@@ -1,6 +1,6 @@
 # Curriculum Vitae
-Profesional en análisis y ciencia de datos, con experiencia en criminología corporativa y seguridad de sistemas. Enfocada en soluciones estratégicas con
- equipos interdisciplinarios para el análisis y la protección de datos.
+
+Científica de Datos con formación en informática, criminología, auxiliar de enfermería y  experiencia en el análisis de la dinámica social a través del trabajo en cárceles, centros de rehabilitación y psiquiátricos, lo cual  me ha permitido comprender el comportamiento social de manera integral. Además, gestioné un emprendimiento en el sector de joyería artesanal, donde desarrollé habilidades en ventas, operaciones y marketing. Por otro lado tuve la oportunidad de crear mi propia página web, lo que me permitió adquirir conocimientos en desarrollo web y comercio electrónico. Estas experiencias me han permitido gestionar y analizar datos desde un enfoque holístico, utilizando herramientas tecnológicas enfocadas en la protección de datos y la ciberseguridad. Estoy disponible para aplicar mis habilidades técnicas y analíticas en un entorno corporativo, contribuyendo con soluciones innovadoras y prácticas que impulsen el crecimiento y la seguridad de la organización.
 
  # Educación
 
