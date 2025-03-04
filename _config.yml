@@ -1,1 +1,6 @@
-
+title: Jordi Galobart Salvat
+logo: "Jordi SARAY1.png"
+description: Full Stack developer
+theme: jekyll-theme-minimal 
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
