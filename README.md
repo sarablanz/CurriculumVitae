@@ -13,7 +13,7 @@ Científica de Datos con formación en informática, criminología, auxiliar de 
 - Redes neuronales: TensorFlow
 - Análisis de datos: Aplicación de técnicas estadística
 
- ## Operaciones de sistemas microinformáticos:
+## Operaciones de sistemas microinformáticos:
 
 **2022**   Monlau Centre d'Estudis - La Sagrera
 
