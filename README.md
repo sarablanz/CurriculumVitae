@@ -1,4 +1,4 @@
-# CurriculumVitae
+# Curriculum Vitae
 Profesional en análisis y ciencia de datos, con experiencia en criminología corporativa y seguridad de sistemas. Enfocada en soluciones estratégicas con
  equipos interdisciplinarios para el análisis y la protección de datos.
 
