@@ -65,6 +65,14 @@ Más información en:
 
 ![Vepica](https://www.vepica.com/hubfs/LIVCA%20-%20Blog.jpg)
 
+## Prácticas en la Gerencia de Protección Integral
+
+**2017** Siderúrgica del Orinoco Alfredo Maneiro (SIDOR C.A.)
+
+- Investigaciones en incidentes de robo, hurto y sabotaje de equipos y materiales.
+- Análisis y prevención de riesgos relacionados con seguridad corporativa.
+
+
 # Skills
 
 - Pandas
