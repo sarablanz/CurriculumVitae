@@ -1,8 +1,12 @@
 # Curriculum Vitae
 
-Soy una profesional cuya primera formación fue en Informática, lo que me proporcionó una base sólida en tecnología, programación y manejo de datos. Posteriormente, decidí ampliar mi horizonte académico y me formé en Criminología, lo que me permitió adentrarme en el análisis del comportamiento humano y la dinámica social. Actualmente, me encuentro trabajando en el sector salud, donde he podido combinar mis conocimientos técnicos con la comprensión de las necesidades humanas y sociales.
+Soy criminóloga con experiencia en seguridad corporativa, análisis de amenazas, atención a víctimas y reinserción social , con un enfoque integral que combina el conocimiento del comportamiento humano con la gestión del riesgo en entornos complejos.
 
-Este recorrido multidisciplinario me ha permitido entender la importancia crucial de los datos en diversos contextos, desde la seguridad hasta la salud, y cómo su análisis puede generar impactos significativos en la toma de decisiones. Motivada por esta comprensión, decidí realizar un máster en Ciencia de Datos, con el objetivo de profundizar en técnicas avanzadas de análisis, protección de datos y ciberseguridad, aplicando estos conocimientos para impulsar soluciones innovadoras y seguras en entornos corporativos.
+A lo largo de mi trayectoria, trabajé en contextos como la violencia de género, salud mental, adicciones y exclusión social , brindando acompañamiento emocional, intervenciones terapéuticas y apoyo en procesos judiciales. Esta experiencia me ha permitido desarrollar una profunda comprensión de la conducta humana, la prevención del delito y la protección de personas vulnerables.
+
+Consciente del creciente papel de la tecnología en la seguridad y la toma de decisiones, decidí complementar mi formación con un Máster en Ciencia de Datos , donde adquiriría habilidades en análisis predictivo y machine learning . Aunque mi experiencia profesional directa en el área tecnológica es limitada,  mi aprendizaje ha estado encaminado en cómo aplicar estas herramientas en los ámbitos criminológico, sanitario y corporativo , buscando siempre un enfoque práctico y socialmente responsable.
+
+Me interesa colaborar con equipos interdisciplinarios para desarrollar soluciones que integren análisis de datos, prevención del delito y bienestar social , aportando una mirada crítica, ética y basada en la evidencia.
 
 # Educación
 
@@ -11,7 +15,7 @@ Este recorrido multidisciplinario me ha permitido entender la importancia crucia
  **2025**  Nuclio Digital, Barcelona 
 - Programación: Python, SQL
 - Modelado predictivo: scikit-learn, XGBoost
-- Visualización de datos: Power BI, Matplotlib
+- Visualización de datos: Matplotlib
 - Redes neuronales: TensorFlow
 - Análisis de datos: Aplicación de técnicas estadística
 
