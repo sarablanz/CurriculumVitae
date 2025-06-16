@@ -63,26 +63,24 @@ Más información en:
 
  **2018-2019** VEPICA-AlivaStump
 
- - Administración de sistemas informáticos internos,
- registros de turnos y generación de informes.
- - Generación y análisis de informes detallados para la
- toma de decisiones estratégicas.
+ [VEPICA](https://www.vepica.com/)
+
+![Vepica](https://www.vepica.com/hubfs/LIVCA%20-%20Blog.jpg)
+
  - Implementación de medidas de seguridad y
  protección de activos de la empresa.
  -  Aplicación de técnicas analíticas para evaluar y
  mejorar la cultura organizacional a través de la
  interpretación de datos internos.
 
-Más información en:
-
-[VEPICA](https://www.vepica.com/)
-
-![Vepica](https://www.vepica.com/hubfs/LIVCA%20-%20Blog.jpg)
-
 ![image](https://github.com/user-attachments/assets/c9d3608d-1886-40fc-9858-4181073ea21d)
 
 ![image](https://github.com/user-attachments/assets/7c22b5a9-456f-4921-841e-3c804b3e21ee)
 
+- Administración de sistemas informáticos internos,
+ registros de turnos y generación de informes.
+ - Generación y análisis de informes detallados para la
+ toma de decisiones estratégicas.
 
 
 ## Prácticas en la Gerencia de Protección Integral
