@@ -86,7 +86,7 @@ Zona Interna:  Capaccitación a la coordicación SPF en materia de seguridad fí
 
 ![image](https://github.com/user-attachments/assets/7c22b5a9-456f-4921-841e-3c804b3e21ee)
 
--
+
 
 ## Prácticas en la Gerencia de Protección Integral
 
