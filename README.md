@@ -104,7 +104,7 @@ Más información en:
 
 - Castellano: Nativo 
 - Inglés: Intermedio
-- Catalán: Conversacional
+- Catalán: Nivel A2 
 
 # Cursos
 
