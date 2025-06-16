@@ -93,11 +93,11 @@ Me interesa colaborar con equipos interdisciplinarios para desarrollar solucione
  📊 Generación y análisis de informes detallados para la toma de decisiones estratégicas.
  💬 Charlas de sensibilización sobre protección de activos desde un enfoque de corresponsabilidad.
 
-El modelo RECRIPEI se centra en la implementación de medidas de seguridad y la protección de los activos de la empresa. Además, incluí la aplicación de técnicas analíticas para evaluar y mejorar la cultura organizacional , mediante la interpretación de datos internos, fortaleciendo así la toma de decisiones estratégicas.
+- El modelo RECRIPEI se centra en la implementación de medidas de seguridad y la protección de los activos de la empresa. Además, incluí la aplicación de técnicas analíticas para evaluar y mejorar la cultura organizacional , mediante la interpretación de datos internos, fortaleciendo así la toma de decisiones estratégicas.
 
 ![image](https://github.com/user-attachments/assets/c9d3608d-1886-40fc-9858-4181073ea21d)
 
-Ambas imagenes muestran la inspección perimetral que realiba la coordinación SPF, al proyecto que se encontraba ejecutando Vepica en la planta de Acerias de SIDOR. 
+- Ambas imágenes muestran la inspección perimetral realizada por la coordinación de Seguridad Física (SPF) en el proyecto que Vepica estaba ejecutando en la planta de Acerías de SIDOR.
 
 ![image](https://github.com/user-attachments/assets/7c22b5a9-456f-4921-841e-3c804b3e21ee)
 
@@ -106,7 +106,7 @@ Ambas imagenes muestran la inspección perimetral que realiba la coordinación S
 
 **2017** Siderúrgica del Orinoco Alfredo Maneiro (SIDOR C.A.)
 
-Durante mi formación en Criminología, realicé prácticas profesionales en el Departamento de Seguridad Patrimonial de SIDOR aproximadamente 5 meses, donde adquirí experiencia directa en el ámbito de la seguridad corporativa . Mis responsabilidades incluyeron:
+- Durante mi formación en Criminología, realicé prácticas profesionales en el Departamento de Seguridad Patrimonial de SIDOR aproximadamente 5 meses, donde adquirí experiencia directa en el ámbito de la seguridad corporativa . Mis responsabilidades incluyeron:
 
 🔍 Investigación de incidentes relacionados con robo, hurto y sabotaje de equipos y materiales.
 
