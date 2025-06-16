@@ -79,6 +79,9 @@ Más información en:
 
 ![Vepica](https://www.vepica.com/hubfs/LIVCA%20-%20Blog.jpg)
 
+![image](https://github.com/user-attachments/assets/c9d3608d-1886-40fc-9858-4181073ea21d)
+
+
 ## Prácticas en la Gerencia de Protección Integral
 
 **2017** Siderúrgica del Orinoco Alfredo Maneiro (SIDOR C.A.)
