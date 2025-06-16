@@ -92,8 +92,15 @@ Zona Interna:  Capaccitación a la coordicación SPF en materia de seguridad fí
 
 **2017** Siderúrgica del Orinoco Alfredo Maneiro (SIDOR C.A.)
 
-- Investigaciones en incidentes de robo, hurto y sabotaje de equipos y materiales.
-- Análisis y prevención de riesgos relacionados con seguridad corporativa.
+Durante mi formación en Criminología, realicé prácticas profesionales en el Departamento de Seguridad Patrimonial de SIDOR aproximadamente 5 meses, donde adquirí experiencia directa en el ámbito de la seguridad corporativa . Mis responsabilidades incluyeron:
+
+🔍 Investigación de incidentes relacionados con robo, hurto y sabotaje de equipos y materiales.
+
+🧩 Análisis de patrones delictivos dentro del entorno industrial para la detección temprana de riesgos.
+
+📊 Prevención y evaluación de riesgos operativos, apoyando en la implementación de medidas correctivas.
+
+🤝 Colaboración con el equipo de seguridad en tareas de monitoreo, control de accesos y elaboración de informes técnicos.
 
 ![image](https://github.com/user-attachments/assets/81840885-e410-43d9-b91a-1dec1b842a19)
 
