@@ -69,27 +69,24 @@ Más información en:
 
  - En esta empresa tuve la oportunidad de implementar mi tesis , basada en el modelo RECRIPEI , el cual establece cinco niveles de seguridad:
 
-Zona restringida
+Zona restringida: colaboración con las Fuerzas Armadas de Venezuela;
  
-Zona Crítica
+Zona Crítica:Departamento de Protección de planta de la siderurgica SIDOR;
 
-Zona de Protección
+Zona de Protección: Organismo de inteligencia del gobierno (SEBIN)
 
-Zona Interna
+Zona Exclusión: Seguridad de Protección Fisica (SPF) de la empresa Vepica & AlivaStump 
 
-Zona externa
- 
--El modelo RECRIPEI se centra en la implementación de medidas de seguridad y la protección de los activos de la empresa. Además, incluí la aplicación de técnicas analíticas para evaluar y mejorar la cultura organizacional , mediante la interpretación de datos internos, fortaleciendo así la toma de decisiones estratégicas.
+Zona Interna:  Capaccitación a la coordicación SPF en materia de seguridad física, registros de turnos y generación de informes, Generación y análisis de informes detallados para la
+ toma de decisiones estratégicas, charla para la proteccion de los activos desde la cooresponsabilidad.
+
+ -El modelo RECRIPEI se centra en la implementación de medidas de seguridad y la protección de los activos de la empresa. Además, incluí la aplicación de técnicas analíticas para evaluar y mejorar la cultura organizacional , mediante la interpretación de datos internos, fortaleciendo así la toma de decisiones estratégicas.
 
 ![image](https://github.com/user-attachments/assets/c9d3608d-1886-40fc-9858-4181073ea21d)
 
 ![image](https://github.com/user-attachments/assets/7c22b5a9-456f-4921-841e-3c804b3e21ee)
 
-- Administración de sistemas informáticos internos,
- registros de turnos y generación de informes.
- - Generación y análisis de informes detallados para la
- toma de decisiones estratégicas.
-
+-
 
 ## Prácticas en la Gerencia de Protección Integral
 
