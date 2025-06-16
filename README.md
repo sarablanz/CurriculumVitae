@@ -78,7 +78,8 @@ Zona de Protección
 Zona Interna
 
 Zona externa
- -El modelo RECRIPEI se centra en la implementación de medidas de seguridad y la protección de los activos de la empresa. Además, incluí la aplicación de técnicas analíticas para evaluar y mejorar la cultura organizacional , mediante la interpretación de datos internos, fortaleciendo así la toma de decisiones estratégicas.
+ 
+-El modelo RECRIPEI se centra en la implementación de medidas de seguridad y la protección de los activos de la empresa. Además, incluí la aplicación de técnicas analíticas para evaluar y mejorar la cultura organizacional , mediante la interpretación de datos internos, fortaleciendo así la toma de decisiones estratégicas.
 
 ![image](https://github.com/user-attachments/assets/c9d3608d-1886-40fc-9858-4181073ea21d)
 
