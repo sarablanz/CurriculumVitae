@@ -81,6 +81,9 @@ Más información en:
 
 ![image](https://github.com/user-attachments/assets/c9d3608d-1886-40fc-9858-4181073ea21d)
 
+![image](https://github.com/user-attachments/assets/7c22b5a9-456f-4921-841e-3c804b3e21ee)
+
+
 
 ## Prácticas en la Gerencia de Protección Integral
 
