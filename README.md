@@ -47,17 +47,18 @@ Me interesa colaborar con equipos interdisciplinarios para desarrollar solucione
 ## Auxiliar de enfermeria 
 
  **2022-2024**  Hospital Mare de Deu de la Merced
+[Hospital Mare de Deu de la Merced](https://fundaciohospitalariesbarcelonanord.org/)
+ 
+[Centre de Salut Mental d’adults de Gracia](https://fundacionhospitalarias.org/que-hacemos/red-de-centros-y-dispositivos/centre-de-salut-mental-dadults-de-gracia/)
 
 - Uso de base de datos para gestionar registros de
  pacientes. Auxiliar de enfermería
 - Participación en cronograma de charlas sobre ciberseguridad para los usuarios de hospital de dia CSMIA de Gracia
 - Reconducción verbal en episodios de crisis
-  
-Más información en:
 
-[Hospital Mare de Deu de la Merced](https://fundaciohospitalariesbarcelonanord.org/)
 
-[Centre de Salut Mental d’adults de Gracia](https://fundacionhospitalarias.org/que-hacemos/red-de-centros-y-dispositivos/centre-de-salut-mental-dadults-de-gracia/)
+
+
 
 ## Asistente a la coordinación de seguridad patrimonial
 
@@ -69,23 +70,36 @@ Más información en:
 
  - En esta empresa tuve la oportunidad de implementar mi tesis , basada en el modelo RECRIPEI , el cual establece cinco niveles de seguridad:
 
-Zona restringida: colaboración con las Fuerzas Armadas de Venezuela;
+🔴 Zona restringida
+
+  🤝 Colaboración directa con las Fuerzas Armadas de Venezuela para reforzar la seguridad en áreas de acceso altamente limitadas.
  
-Zona Crítica:Departamento de Protección de planta de la siderurgica SIDOR;
+🟠 Zona Crítica
 
-Zona de Protección: Organismo de inteligencia del gobierno (SEBIN)
+ 🏭 Departamento de Protección de Planta de la siderúrgica SIDOR , participando en tareas de análisis de vulnerabilidades y control de accesos críticos.
 
-Zona Exclusión: Seguridad de Protección Fisica (SPF) de la empresa Vepica & AlivaStump 
+🟡 Zona de Protección
 
-Zona Interna:  Capaccitación a la coordicación SPF en materia de seguridad física, registros de turnos y generación de informes, Generación y análisis de informes detallados para la
- toma de decisiones estratégicas, charla para la proteccion de los activos desde la cooresponsabilidad.
+ 🕵️‍♂️ Coordinación con el SEBIN (organismo de inteligencia del Estado) para el intercambio de información sensible y estrategias de prevención.
 
- -El modelo RECRIPEI se centra en la implementación de medidas de seguridad y la protección de los activos de la empresa. Además, incluí la aplicación de técnicas analíticas para evaluar y mejorar la cultura organizacional , mediante la interpretación de datos internos, fortaleciendo así la toma de decisiones estratégicas.
+🟣 Zona de Exclusión
+
+ 🛡 Apoyo en las operaciones de Seguridad de Protección Física (SPF) para empresas como Vepica y AlivaStump , enfocadas en el resguardo de perímetros e infraestructura.
+
+🟢 Zona Interna
+
+ 📚 Capacitación al personal de la Coordinación SPF en protocolos de seguridad física.
+ 📝 Gestión de registros de turnos y elaboración de informes operativos.
+ 📊 Generación y análisis de informes detallados para la toma de decisiones estratégicas.
+ 💬 Charlas de sensibilización sobre protección de activos desde un enfoque de corresponsabilidad.
+
+El modelo RECRIPEI se centra en la implementación de medidas de seguridad y la protección de los activos de la empresa. Además, incluí la aplicación de técnicas analíticas para evaluar y mejorar la cultura organizacional , mediante la interpretación de datos internos, fortaleciendo así la toma de decisiones estratégicas.
 
 ![image](https://github.com/user-attachments/assets/c9d3608d-1886-40fc-9858-4181073ea21d)
 
-![image](https://github.com/user-attachments/assets/7c22b5a9-456f-4921-841e-3c804b3e21ee)
+Ambas imagenes muestran la inspección perimetral que realiba la coordinación SPF, al proyecto que se encontraba ejecutando Vepica en la planta de Acerias de SIDOR. 
 
+![image](https://github.com/user-attachments/assets/7c22b5a9-456f-4921-841e-3c804b3e21ee)
 
 
 ## Prácticas en la Gerencia de Protección Integral
@@ -115,13 +129,12 @@ Durante mi formación en Criminología, realicé prácticas profesionales en el 
 - XGBoost
 - Keras
 - Docker
-- Power BI
 - AWS
 
 # Idiomas
 
 - Castellano: Nativo 
-- Inglés: Intermedio
+- Inglés: B1 cursando en la Escuela Oficial de Idiomas Drassanes, Barcelona.
 - Catalán: Nivel A2 
 
 # Cursos
