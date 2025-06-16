@@ -92,6 +92,8 @@ Más información en:
 - Investigaciones en incidentes de robo, hurto y sabotaje de equipos y materiales.
 - Análisis y prevención de riesgos relacionados con seguridad corporativa.
 
+![image](https://github.com/user-attachments/assets/81840885-e410-43d9-b91a-1dec1b842a19)
+
 
 # Skills
 
