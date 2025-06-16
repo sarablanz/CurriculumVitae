@@ -67,11 +67,18 @@ Más información en:
 
 ![Vepica](https://www.vepica.com/hubfs/LIVCA%20-%20Blog.jpg)
 
- - Implementación de medidas de seguridad y
- protección de activos de la empresa.
- -  Aplicación de técnicas analíticas para evaluar y
- mejorar la cultura organizacional a través de la
- interpretación de datos internos.
+ - En esta empresa tuve la oportunidad de implementar mi tesis , basada en el modelo RECRIPEI , el cual establece cinco niveles de seguridad:
+
+Zona restringida
+ 
+Zona Crítica
+
+Zona de Protección
+
+Zona Interna
+
+Zona externa
+ -El modelo RECRIPEI se centra en la implementación de medidas de seguridad y la protección de los activos de la empresa. Además, incluí la aplicación de técnicas analíticas para evaluar y mejorar la cultura organizacional , mediante la interpretación de datos internos, fortaleciendo así la toma de decisiones estratégicas.
 
 ![image](https://github.com/user-attachments/assets/c9d3608d-1886-40fc-9858-4181073ea21d)
 
