@@ -121,15 +121,15 @@ Me interesa colaborar con equipos interdisciplinarios para desarrollar solucione
 
 # Skills
 
-- Pandas
-- Numpy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- XGBoost
-- Keras
-- Docker
-- AWS
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+- Machine Learning (scikit-learn, pandas)
+- Data Visualization (Matplotlib)
+- Inglés B2
+
 
 # Idiomas
 
