@@ -8,6 +8,10 @@ Consciente del creciente papel de la tecnología en la seguridad y la toma de de
 
 Me interesa colaborar con equipos interdisciplinarios para desarrollar soluciones que integren análisis de datos, prevención del delito y bienestar social , aportando una mirada crítica, ética y basada en la evidencia.
 
+- 📍 Barcelona, España
+- 📧 sblancoalzola@gmail.com
+- 🌐 [https://www.linkedin.com/in/saray-blanco-alzola-269917329/) 
+
 # Educación
 
 ## Máster en  Científico de datos|Analista de datos
