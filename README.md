@@ -8,12 +8,6 @@ A lo largo de mi trayectoria, trabajé en contextos como la violencia de género
 Este repositorio contiene mi Curriculum Vitae en diferentes formatos y recursos relacionados.
 
 Consciente del creciente papel de la tecnología en la seguridad y la toma de decisiones, decidí complementar mi formación con un Máster en Ciencia de Datos , donde adquiriría habilidades en análisis predictivo y machine learning . Aunque mi experiencia profesional directa en el área tecnológica es limitada,  mi aprendizaje ha estado encaminado en cómo aplicar estas herramientas en los ámbitos criminológico, sanitario y corporativo , buscando siempre un enfoque práctico y socialmente responsable.
-## Estructura
-
-Me interesa colaborar con equipos interdisciplinarios para desarrollar soluciones que integren análisis de datos, prevención del delito y bienestar social , aportando una mirada crítica, ética y basada en la evidencia.
-- `/src`: Archivos fuente del CV (PDF, Word, LaTeX, etc.).
-- `/docs`: Documentación adicional, instrucciones para edición o generación del CV.
-- `/assets`: Imágenes, gráficos u otros recursos visuales.
 
 - 📍 Barcelona, España
 - 📧 sblancoalzola@gmail.com
