@@ -11,14 +11,13 @@ Bienvenida/o a mi repositorio de Curriculum Vitae.
 
 - **`index.md`**: Página principal del CV publicada en GitHub Pages.
 - **`assets/`**: Imágenes y recursos utilizados en el CV.
-- **`src/`**: (Si tienes esta carpeta) Proyectos desarrollados y documentación relevante.
+- **`src/`**: Proyectos desarrollados y documentación relevante.
 - **`_config.yml`**: Configuración para el sitio web con Jekyll.
 - **`README.md`**: Este archivo, con información y guía del repositorio.
 
 ## Proyectos
 
-- Los proyectos se encuentran en la carpeta [`src`](src/) (ajusta el nombre si es diferente).
-- El proyectos de criminologia corporativa
+- Los proyectos se encuentran en la carpeta [`src`](src/) son de criminologia corporativa
 
 ---
 
