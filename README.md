@@ -17,7 +17,7 @@ Bienvenida/o a mi repositorio de Curriculum Vitae.
 
 ## Proyectos
 
-- Los proyectos se encuentran en la carpeta [`src`](src/) son de criminologia corporativa
+- Los proyectos que se encuentran en la carpeta [`src`](src/) son de criminologia corporativa
 
 ---
 
