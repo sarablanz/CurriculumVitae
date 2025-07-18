@@ -1,7 +1,7 @@
 
 # Curriculum Vitae
 
-![Foto de Saray](assets/FOTO SARAY1.png)
+![Foto de Saray](assets/FOTO_SARAY1.png)
 
 
 Soy criminóloga con experiencia en seguridad corporativa, análisis de amenazas, atención a víctimas y reinserción social , con un enfoque integral que combina el conocimiento del comportamiento humano con la gestión del riesgo en entornos complejos.
