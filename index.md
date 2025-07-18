@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-![alt text](assets/FOTO_SARAY1.png)
+
 
 Soy criminóloga con experiencia en seguridad corporativa, análisis de amenazas, atención a víctimas y reinserción social , con un enfoque integral que combina el conocimiento del comportamiento humano con la gestión del riesgo en entornos complejos.
 🔗 [Ver mi CV online](https://sarablanz.github.io/CurriculumVitae/)
