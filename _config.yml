@@ -1,6 +1,6 @@
 title: Saray Blanco Alzola
-logo: "FOTO SARAY1.png"
+logo: "assets/FOTO SARAY1.png"
 description: Data Scientist
-theme: jekyll-theme-minimal 
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag # Add SEO plugin
