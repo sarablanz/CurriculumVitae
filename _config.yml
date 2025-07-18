@@ -3,4 +3,4 @@ logo: "assets/foto_saray.png"
 description: Data Scientist
 theme: jekyll-theme-minimal
 plugins:
-  - jekyll-seo-tag # Add SEO plugin
+  - jekyll-seo-tag
